@@ -1,0 +1,14 @@
+bj/ifri/tpbanque23/repositories/CompteAvecInteretsRepository.class
+bj/ifri/tpbanque23/repositories/AgenceRepository.class
+bj/ifri/tpbanque23/repositories/CompteBancaireRepository.class
+bj/ifri/tpbanque23/repositories/BanqueRepository.class
+bj/ifri/tpbanque23/entities/CompteBancaire.class
+bj/ifri/tpbanque23/entities/Banque.class
+bj/ifri/tpbanque23/entities/CompteAvecInterets.class
+bj/ifri/tpbanque23/controllers/HomeController.class
+bj/ifri/tpbanque23/entities/Employe.class
+bj/ifri/tpbanque23/repositories/ClientRepository.class
+bj/ifri/tpbanque23/entities/Agence.class
+bj/ifri/tpbanque23/repositories/EmployeRepository.class
+bj/ifri/tpbanque23/entities/Client.class
+bj/ifri/tpbanque23/Tpbanque23Application.class

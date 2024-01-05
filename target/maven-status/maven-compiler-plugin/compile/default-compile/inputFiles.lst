@@ -1,0 +1,14 @@
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/entities/CompteBancaire.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/repositories/AgenceRepository.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/repositories/EmployeRepository.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/entities/CompteAvecInterets.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/Tpbanque23Application.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/repositories/BanqueRepository.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/repositories/ClientRepository.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/repositories/CompteAvecInteretsRepository.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/repositories/CompteBancaireRepository.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/entities/Client.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/entities/Employe.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/controllers/HomeController.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/entities/Agence.java
+/home/amakira/Documents/tpbanque23/src/main/java/bj/ifri/tpbanque23/entities/Banque.java
